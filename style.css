@@ -1,0 +1,25 @@
+body{
+background-color: rgb(132, 10, 247);
+    color: white;
+}
+
+input{
+    width: 180px;
+    color: salmon; 
+}
+
+input::placeholder{
+    color: lightgray;
+}
+
+textarea{
+    width: 322px;
+    margin-top: 5px;
+    color: rgb(11, 212, 27);
+    background-color: rgb(247, 241, 241);
+}
+
+section{
+    width: 50%;
+    margin: auto;
+}
